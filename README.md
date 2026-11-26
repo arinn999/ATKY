@@ -1,2 +1,0 @@
-# ATKY
-alat tulis
